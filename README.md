@@ -1,3 +1,8 @@
+![play](https://user-images.githubusercontent.com/81354428/162616493-9badf698-f67d-472b-856d-9a4d6f0943f5.png)
+![sample](https://user-images.githubusercontent.com/81354428/162616503-ad6d74ac-b327-40b2-8b5c-9f6c72c2304f.png)
+![battle](https://user-images.githubusercontent.com/81354428/162616513-1e46dc5f-cc19-4b63-9a54-ce8ed0ac74b9.png)
+![zombie](https://user-images.githubusercontent.com/81354428/162616518-53395b48-eedc-4154-a748-f27978d2f6de.png)
+![zombie screen](https://user-images.githubusercontent.com/81354428/162616521-9719f41b-08fe-4f16-8d96-e2d4d2b357d0.png)
 # Shoot-the-zombie
 
 A Heads Up Display (HUD) that shows details such as the score, high score,
